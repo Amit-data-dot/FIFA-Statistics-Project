@@ -11,7 +11,7 @@ The objective of this project is to perform an end-to-end data analytics study u
 **columns:** 88
 **File used:** `Game.xlsx`
 **Sheeet Name:** Game_data
----
+
 ##  Data Information
 ### *Key Columns*
 **ID :** Unique player identifier
@@ -25,7 +25,7 @@ The objective of this project is to perform an end-to-end data analytics study u
 **Weight:** Player weight (in lbs)
 **Position:** Player's field position (e.g., ST, GK, CM)
 **Additional Attributes:** Skills (e.g., Dribbling, Passing), physical metrics, and contract details
----
+
 # Cleaning steps performed
 - Converted **Wage** values from text (e.g., “€200K”, “€1M”) to numeric  
 - Extracted numeric values from *Weight* (e.g., “150lbs”)  
@@ -33,7 +33,7 @@ The objective of this project is to perform an end-to-end data analytics study u
 - Removed or treated missing values  
 - Converted text-based numeric fields into appropriate numeric types  
 - Cleaned skill and physical attributes for consistent processing
-  ---
+  
   
   # Impurities removed
 - Inconsistent financial formats resolved  
